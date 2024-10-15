@@ -10,3 +10,6 @@ coverage/
 .vscode/
 *.log
 *.tsbuildinfo
+
+# npm
+package-lock.json
